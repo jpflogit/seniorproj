@@ -9,4 +9,6 @@ We will update this regularly during the semester
 
 Only snippets of code that are important to the overall project
 
-You can use ### Markdown for this section to emphasize important points
+### Markdown is used to emphasize any important points
+
+Click the pencil icon to edit this page and see how to do some of the above effects
